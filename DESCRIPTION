@@ -1,7 +1,7 @@
 Package: spcov
 Type: Package
 Title: Sparse Estimation of a Covariance Matrix
-Version: 1.02
+Version: 1.2
 Date: 2022-09-21
 Author: Jacob Bien and Rob Tibshirani
 Maintainer: Jacob Bien <jbien@usc.edu>
