@@ -8,10 +8,9 @@ Tibshirani, R. (2011), “Sparse Estimation of a Covariance Matrix,”
 Biometrika](https://academic.oup.com/biomet/article/98/4/807/234877).
 
 The easiest way to install `spcov` is by using the
-[devtools](https://cran.r-project.org/web/packages/devtools/index.html)
-R package (if not already installed, open R and type
-`install.packages("devtools")`). To install `spcov`, type the following
-from an R console:
+[devtools](https://CRAN.R-project.org/package=devtools) R package (if
+not already installed, open R and type `install.packages("devtools")`).
+To install `spcov`, type the following from an R console:
 
 ``` r
 devtools::install_github("jacobbien/spcov")
